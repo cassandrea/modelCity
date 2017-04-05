@@ -1,4 +1,4 @@
-package main.java.com.codingnomads.vehicle;
+package com.codingnomads.vehicle;
 
 import java.math.BigDecimal;
 

@@ -1,4 +1,4 @@
-package main.java.com.codingnomads.util;
+package com.codingnomads.util;
 
 import java.math.BigDecimal;
 
